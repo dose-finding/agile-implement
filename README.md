@@ -4,7 +4,8 @@
 
 The repository includes the following files:
 
-BLRM-Randomised-AGILE-SIMULATIONS.R
+1. BLRM-Randomised-AGILE-SIMULATIONS.R
+
 This code uploads the required functions and implements the 2-parameter logistic (also known as BLRM) randomised design in the case of a single-agent trial with binary (DLT/no DLT) outcomes.
 
 This code can be used to produce the performance of the proposed design provided in Table 3. 
